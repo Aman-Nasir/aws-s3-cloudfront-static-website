@@ -20,6 +20,10 @@ This project also demonstrates secure content delivery using HTTPS and global ed
 ## Live Demo
 [http://dlncw9aoytnv4.cloudfront.net](https://dlncw9aoytnv4.cloudfront.net/)
 
+## Preview
+
+![Website Preview](screenshot.png)
+
 ## Key Learnings
 - Hosting static websites on AWS S3
 - Configuring bucket permissions and static website hosting
