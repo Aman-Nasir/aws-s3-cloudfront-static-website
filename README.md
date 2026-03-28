@@ -1,12 +1,17 @@
 # AWS S3 + CloudFront Static Website
 
 ## Project Overview
-This project demonstrates how to host a static website using Amazon S3 and improve performance and delivery using Amazon CloudFront.
+This project also demonstrates secure content delivery using HTTPS and global edge locations.
 
 ## Services Used
 - Amazon S3
 - Amazon CloudFront
 
+## Tech Stack
+- AWS S3
+- AWS CloudFront
+- HTML/CSS
+  
 ## Features
 - Static website hosting on S3
 - Content delivery through CloudFront
