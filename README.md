@@ -22,7 +22,7 @@ This project also demonstrates secure content delivery using HTTPS and global ed
 
 ## Preview
 
-![Website Preview](screenshot.png)
+![Website Preview](website(CDN).png)
 
 ## Key Learnings
 - Hosting static websites on AWS S3
